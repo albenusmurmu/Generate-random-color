@@ -1,4 +1,4 @@
-# Generate-random-color
+# 🎨Generate-random-color
 
 ! Here's what it does 👇
 ### Generate random color with hex code.
